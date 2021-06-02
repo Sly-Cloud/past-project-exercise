@@ -20,7 +20,7 @@ Additional description about the project and its features.
 Getting Started
 <h2> To get a local copy of this file:</h2>
 
-1. Go to [repo](https://github.com/Sly-Cloud/past-project-review-exercise)
+1. Go to [repo](https://github.com/Sly-Cloud/past-project-exercise)
 2. Click the **code** button (usually in green background)
 3. Open terminal on your local machine
 4. Enter `<git clone>`
@@ -37,7 +37,7 @@ Getting Started
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Sly-Cloud/past-project-review-exercise/issues)
+Feel free to check the [issues page](https://github.com/Sly-Cloud/past-project-exercise/issues)
 
 <h3>Show your support</h3>
 
